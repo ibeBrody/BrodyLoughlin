@@ -15,8 +15,8 @@ title: "Teaching"
 title: "Blog Posts"
     url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+    #url: /cv/
 
-  - title: "Markdown"
-    url: /markdown/
+  #- title: "Markdown"
+    #url: /markdown/
