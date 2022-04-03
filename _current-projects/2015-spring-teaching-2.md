@@ -4,7 +4,6 @@ collection: teaching
 type: "SIOP"
 permalink: /teaching/2015-spring-teaching-1
 venue: "LATECH"
-date: 2022
 location: "Ruston, LA"
 ---
 
