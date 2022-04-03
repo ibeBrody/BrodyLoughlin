@@ -17,7 +17,7 @@ import os
 # 
 # The TSV needs to have the following columns: title, type, url_slug, venue, date, location, talk_url, description, with a header at the top. Many of these fields can be blank, but the columns must be in the TSV.
 # 
-# - Fields that cannot be blank: `title`, `url_slug`, `date`. All else can be blank. `type` defaults to "Talk" 
+# - Fields that cannot be blank: `title`, `url_slug`, `date`. All else can be blank. `type` defaults to "current-projects" 
 # - `date` must be formatted as YYYY-MM-DD.
 # - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. 
 #     - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/current-projects/YYYY-MM-DD-[url_slug]`
@@ -76,7 +76,7 @@ for row, item in current-projects.iterrows():
     if len(str(item.type)) > 3:
         md += 'type: "' + item.type + '"\n'
     else:
-        md += 'type: "Talk"\n'
+        md += 'type: "current-projects"\n'
     
     md += "permalink: /current-projects/" + html_filename + "\n"
     
