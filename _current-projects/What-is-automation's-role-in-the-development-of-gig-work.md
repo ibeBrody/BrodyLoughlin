@@ -2,7 +2,7 @@
 title: "What is automation's role in the development of gig work?"
 collection: current-projects
 type: "SIOP session"
-permalink: /current-projects/What-is-automation's-role-in-the-development-of-gig-work?
+permalink: /current-projects/What-is-automation's-role-in-the-development-of-gig-work
 venue: "Panel Discussion"
 excerpt: This panel discussion will attempt to depict how the present-day workforce will transition to a non-existent workforce
 date: 2022-04-03
