@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: current-projects
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
 
