@@ -42,9 +42,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-current-projects
+Talks
 ======
-  <ul>{% for post in site.current-projects %}
+  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   

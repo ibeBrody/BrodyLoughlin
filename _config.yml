@@ -7,19 +7,19 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Work"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Brody Loughlin"
-description              : &description "Doctoral student"
-url                      : https://ibebrody.github.io/BrodyLoughlin # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ibeBrody/BrodyLoughlin"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on current-projects page
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brody Loughlin"
-  avatar           : "DSC04083-3.jpg"
-  bio              : "Doctoral student at Louisiana Tech University's Industrial-Organizational Psychology program."
-  location         : "Ruston, LA"
-  employer         : "Louisiana Tech University"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "btl013@email.latech.edu"
-  researchgate     : "https://www.researchgate.net/profile/Brody-Loughlin"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ibeBrody"
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : "ibeBrody"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #""
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  current-projects:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _current-projects
+  # _talks
   - scope:
       path: ""
-      type: current-projects
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
 
