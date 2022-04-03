@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brody Loughlin / Brody Loughlin's Work"
+title                    : "Brody Loughlin's Work"
 title_separator          : "-"
 name                     : &name "Brody Loughlin"
 description              : &description "personal description"
