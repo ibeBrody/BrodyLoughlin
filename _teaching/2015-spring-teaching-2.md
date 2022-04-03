@@ -3,6 +3,7 @@ title: "Future Without Work"
 collection: teaching
 type: "SIOP session"
 permalink: /teaching/2015-spring-teaching-1
+venue: "Panel Disscusion"
 date: 2022-01-01
 ---
 
