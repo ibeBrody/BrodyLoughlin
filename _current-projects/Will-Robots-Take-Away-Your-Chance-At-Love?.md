@@ -2,7 +2,7 @@
 title: "Will Robots Take Away Your Chance At Love?"
 collection: teaching
 type: "SIOP session"
-permalink: /current-projects/Will-Robots-Take-Away-Your-Chance-At-Love?
+permalink: /current-projects/Will-Robots-Take-Away-Your-Chance-At-Love?/
 venue: "Panel Disscusion"
 date: 2022-01-01
 ---
