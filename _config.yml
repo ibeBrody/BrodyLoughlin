@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "My Work"
 title_separator          : "-"
 name                     : &name "Brody Loughlin"
-description              : &description "personal description"
+description              : &description "Doctoral student"
 url                      : https://ibebrody.github.io/BrodyLoughlin # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ibeBrody/BrodyLoughlin"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Brody Loughlin"
-  avatar           : "bio-photo.jpg"
+  avatar           : "DSC04083-3.jpg"
   bio              : "Doctoral student at Louisiana Tech University's Industrial-Organizational Psychology program."
   location         : "Ruston, LA"
   employer         : "Louisiana Tech University"
