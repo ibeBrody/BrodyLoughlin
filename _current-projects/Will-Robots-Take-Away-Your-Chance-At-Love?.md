@@ -1,5 +1,5 @@
 ---
-title: "Will"
+title: "Will Robots Take Away Your Chance At Love"
 collection: current-projects
 type: "SIOP session"
 permalink: /current-projects/Will-Robots-Take-Away-Your-Chance-At-Love?
