@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "My Work"
 title_separator          : "-"
-name                     : &name "Brody Loughlin"
+name                     : &name "rody Loughlin"
 description              : &description "Doctoral student"
 url                      : https://ibebrody.github.io/BrodyLoughlin # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
