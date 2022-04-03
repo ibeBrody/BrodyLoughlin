@@ -6,13 +6,13 @@ main:
   - title: "Current Projects"
     url: /current-projects/
 
-  - title: "Teaching"
+title: "Teaching"
     url: /teaching/
 
   - title: "Portfolio"
     url: /portfolio/
 
-  -title: "Blog Posts"
+title: "Blog Posts"
     url: /year-archive/
 
   - title: "CV"
