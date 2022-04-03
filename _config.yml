@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brody Loughlin / Brody Loughlin's Work"
+title                    : "Brody Loughlin's Work"
 title_separator          : "-"
 name                     : &name "Brody Loughlin"
 description              : &description "personal description"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Brody Loughlin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Doctoral student at Louisiana Tech University's Industrial-Organizational Psychology program ."
   location         : "Ruston, LA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "Louisiana Tech University"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "btl013@email.latech.edu"
+  researchgate     : "https://www.researchgate.net/profile/Brody-Loughlin"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   github           : "ibeBrody"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ibeBrody"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ibeBrody"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
