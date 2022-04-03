@@ -6,7 +6,7 @@ main:
   - title: "Current Projects"
     url: /current-projects/
 
-title: "Teaching"
+- title: "Teaching"
     url: /teaching/
 
   - title: "Portfolio"
