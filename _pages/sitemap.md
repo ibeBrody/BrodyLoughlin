@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: BrodyLoughlin/sitemap/
+permalink: /sitemap/
 author_profile: true
 ---
 
