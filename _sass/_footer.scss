@@ -21,7 +21,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   background-color: (rgb(124, 130, 135), $lighter-gray);
-  border-top: 1px solid (rgb(124, 130, 135), $lighter-gray);
+  border-top: 1px solid (#252a34,$dark-gray);
 
   footer {
     @include clearfix;
