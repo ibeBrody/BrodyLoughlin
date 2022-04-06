@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-remote_theme             : "dracula/gh-pages"
 locale                   : "en-US"
 title                    : "My Work"
 title_separator          : "-"
