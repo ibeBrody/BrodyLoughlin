@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I have a bachelor's of science in Psychology from the University of Arizona. I am currently a doctoral student studying Industrial-Organizational Psychology at Louisiana Tech University. 
+I graduated from the University of Arizona with a bachelor's degree in psychology. I am currently a doctoral student at Louisiana Tech University studying Industrial-Organizational Psychology. 
 
-I am interested in collaborating on future research projects covering: the future of work, automation, changing workforce, employee well-being, human/tech interactions, work-related sleep, and work-family issues involving vulnerable and minority populations.
+I am interested in collaborating on future research projects addressing the following topics: the future of work, automation, the changing workforce, employee well-being, human/tech interactions, job-related sleep, and work-family difficulties, including vulnerable and minority groups.
