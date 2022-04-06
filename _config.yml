@@ -48,6 +48,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+remote_theme: "dracula/gh-pages"
+
 
 # SEO Related
 google_site_verification :
