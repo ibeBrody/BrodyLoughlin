@@ -8,6 +8,8 @@ excerpt: This panel discussion will attempt to open the discourse around a futur
 date: 2022-04-03
 ---
 
+Current Team [Dr. Steven Toaddy (affectionately known as ./)](https://works.bepress.com/steven-toaddy/about/), [Kevin Sullivan](https://www.linkedin.com/in/kevin-sullivan-78792a180/), and me (Brody)
+
 The session will be a panel discussion aimed at the future of work, more specifically and explicitly the potential future in which automation (broadly construed) completely eliminates the need and, indeed, the possibility for paid human employment. Some of the questions I would like to address in this panel are:
 
 1. How to determine who will and will not flounder in the absence of paid work?

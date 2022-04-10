@@ -8,6 +8,9 @@ excerpt: This panel discussion will attempt to depict how the present-day workfo
 date: 2022-04-03
 ---
 
+Current Team [Dr. Steven Toaddy (affectionately known as ./)](https://works.bepress.com/steven-toaddy/about/), [Kevin Sullivan](https://www.linkedin.com/in/kevin-sullivan-78792a180/), and me (Brody)
+
+
 This panel discussion will attempt to depict how the present-day workforce will transition to a non-existent workforce through periods of change in which the ingratiation acceptance and increased development of the gig economy will be the mechanism that bridges the gap between the current workforce and the non-existent one. Many people question what jobs are included in the gig economy, and many deny the possibility of the gig economy persisting in the long term. 
 
 
